@@ -11,7 +11,7 @@
 }
 .navlink{
     background-color: rgba(0, 0, 255, 0.49);
-    height: 25px;
+    height: 45px;
     display: flex;
     list-style: none;
     text-decoration: none;
@@ -19,7 +19,7 @@
     
 }
 .navlink li a{
-    font-size: 20px;
+    font-size: 30px;
     color:white;
 }
 

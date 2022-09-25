@@ -55,10 +55,20 @@
     
     
   }
+  /* .gallery-event{
+    display: flex;
+    justify-content: center;
+    
+  } */
   .gallery-event img{
+    width: 33%;
     height: 400px;
+    padding: 5px;
+    border-radius: 15px ;
+    box-shadow: 5px gray;
   }
   #eg{
     font-size: 45px;
     padding: 15px;
   }
+ 
